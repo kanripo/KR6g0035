@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛臨涅槃記法住經
+#+DATE: 2015-08-30 20:04:57.211726
+#+PROPERTY: JUAN 0
