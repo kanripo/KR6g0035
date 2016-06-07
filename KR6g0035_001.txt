@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:56.997552
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:11
 #+TITLE: 佛臨涅槃記法住經
 #+PROPERTY: CBETA_ID T12n0390
 #+PROPERTY: ID KR6g0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 390
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0035_T_000-1112b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0035_T_001-1112b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.390¶
-
- 《佛臨涅槃記法住經》¶
+No. 390¶
+《佛臨涅槃記法住經》¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
